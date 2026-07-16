@@ -9,6 +9,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
 * My target role is to become a Data Scientist.
 * I chose this role because I enjoy working with data, solving problems, and finding insights that can assist organisations make better decisions. The sport domain interests me because it combines my passion for sports with data-driven analysis and predictive modelling.
 
-  **Seed Project Ideas:**
-  * To analyse soccer match datasets to identify the factors that influence match outcomes and team success.
-  * Build a predictive model that uses player statistics to predict player perfomance and potential injury risks.
+ 
+ **Seed Project Ideas:**
+ * To analyse soccer match datasets to identify the factors that influence match outcomes and team success.
+ * Build a predictive model that uses player statistics to predict player perfomance and potential injury risks.
