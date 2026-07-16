@@ -13,3 +13,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
  **Seed Project Ideas:**
  * To analyse soccer match datasets to identify the factors that influence match outcomes and team success.
  * Build a predictive model that uses player statistics to predict player perfomance and potential injury risks.
+
+**Still to Grow:**
+ * Technical Skill:
+ * Machine Learning - 
