@@ -23,4 +23,4 @@ I am passionate about using data to uncover patterns, improve decision making, a
  * 30 Day Goal:
      * Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small dataset to enhance my data analysis skills
  * 6 Months Goal:
-      * Develop an analytics dashboard, for example <u>soccer analytics</u> dashboard that visualises player and team performance statistics, and present my findings in a professional portfolio.
+      * Develop an analytics dashboard, for example <i>soccer analytics</i> dashboard that visualises player and team performance statistics, and present my findings in a professional portfolio.
