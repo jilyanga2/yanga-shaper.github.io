@@ -1,4 +1,4 @@
-# yanga-portfolio.github.io
+# yanga-shaper.github.io
 
 **Mini Bio:**
 
