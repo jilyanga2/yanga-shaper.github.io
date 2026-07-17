@@ -15,12 +15,12 @@ I am passionate about using data to uncover patterns, improve decision making, a
    
 **Still to Grow:**
  * Technical Skill:
-    * Machine Learning - I would really like to enhance my knowledge of ML techniques and tools such as Python, Pandasand other tools to analyse sports data and build predictive models.
+    * Machine Learning and Python - I would really like to enhance my knowledge of ML techniques and tools such as Python, Pandas and other tools to analyse sports data and build predictive models using Python libraries. 
 * Soft Skill:
    * Communication - When it comes to soft skills I would like to improve my ability to communicate data insights clearly to both technical audience and non-technical audiences, as this is an essential skill for a Data Scientist.
  
 **Goals:**
  * 30 Day Goal:
-     * Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small sport dataset.
+     * Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small soccer dataset to enhance my data analysis skills
  * 6 Month Goal:
-      * Build and publish at least one complete sports analytics project on GitHub that includes data cleaning, visualisations, insights, and predictive analysis.
+      * Develop a sports analytics dashboard that visualises player and team performance statistics, and presesnt my findings in a professional portdolio.
