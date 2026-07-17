@@ -20,5 +20,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
    * Communication - When it comes to soft skills I would like to improve my ability to communicate data insights clearly to both technical audience and non-technical audiences, as this is an essential skill for a Data Scientist.
  
 **Goals:**
- * 30 Day Goal - Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small sport dataset.
- * 6 Month Goal - Build and publish at least one complete sports analytics project on GitHub that includes data cleaning, visualisations, insights, and predictive analysis.
+ * 30 Day Goal:
+     * Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small sport dataset.
+ * 6 Month Goal:
+      * Build and publish at least one complete sports analytics project on GitHub that includes data cleaning, visualisations, insights, and predictive analysis.
